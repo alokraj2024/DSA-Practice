@@ -1,0 +1,7 @@
+# Ignore executables with no extension (compiled C++ files on Mac/Linux)
+*
+!*/
+!*.*
+
+# Ignore system files
+.DS_Store
